@@ -1,0 +1,25 @@
+Amin Alipour,2452945
+Guoning Chen,2185985
+Albert Cheng,230431
+Rathish Das,3023528
+Zhigang Deng,1291648
+Christoph Eick,132230
+Omprakash Gnawali,1680525
+Stephen S.-H. Huang,2684190
+Lennart Johnsson,230439
+Ioannis Kakadiaris,230440
+Ernst Leiss,230441
+Sen Lin,2956565
+Jinyang Liu,523460
+Arjun Mukherjee,2173365 
+Carlos Ordonez,1473876
+Gopal Pandurangan,2349455
+Ioannis Pavlidis,1736447
+Shishir Shah,1262082
+Weidong (Larry) Shi,1517584
+Thamar Solorio,2068023
+Jaspal Subhlok,132213
+Nikolaos V. Tsekos,1685589
+Rakesh Verma,191067
+Panruo Wu,2472665
+Feng Yan,2957965
