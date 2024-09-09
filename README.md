@@ -1,5 +1,5 @@
-# ProfessorAI
-### README for ProfessorAI: Research About Your Professor
+# ProfessorAI: Research About Your Professor
+
 
 #### Introduction
 ProfessorAI is a Streamlit application designed to help users explore various aspects of professors' teaching styles, courses, and academic contributions. By selecting a professor from a predefined list, users can ask specific questions and retrieve answers based on processed data. This application integrates with external sources and uses natural language processing to provide insights.
